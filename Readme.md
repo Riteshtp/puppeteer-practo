@@ -1,4 +1,9 @@
 # Setup
 
--   `npm i` 
--   `npx tsc index.ts` # if doesnt work `npm i tsc -g`
+### !!! Submit Disabled 
+-   `npm i`
+-   `(sudo if needed) npm i -g ts-node`
+-   Excel data, csv ====> JSON
+-   Dump that in raw_data.json
+-   `ts-node converter.ts`
+-   `ts-node index.ts`
